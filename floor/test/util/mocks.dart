@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:mockito/mockito.dart';
-import 'package:sqflite/sqflite.dart';
+import 'package:math_sqflite/sqflite.dart';
 
 class MockDatabaseExecutor extends Mock implements DatabaseExecutor {}
 

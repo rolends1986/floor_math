@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:meta/meta.dart';
-import 'package:sqflite/sqflite.dart' as sqflite;
+import 'package:math_sqflite/sqflite.dart' as sqflite;
 
 /// Extend this class to enable database functionality.
 abstract class FloorDatabase {

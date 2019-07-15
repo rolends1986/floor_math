@@ -1,4 +1,4 @@
-import 'package:sqflite/sqflite.dart' as sqflite;
+import 'package:math_sqflite/sqflite.dart' as sqflite;
 
 /// Base class for a database migration.
 ///

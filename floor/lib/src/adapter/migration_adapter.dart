@@ -1,5 +1,5 @@
 import 'package:floor/src/migration.dart';
-import 'package:sqflite/sqflite.dart';
+import 'package:math_sqflite/sqflite.dart';
 
 abstract class MigrationAdapter {
   /// Runs the given [migrations] for migrating the database schema and data.

@@ -1,7 +1,7 @@
 import 'package:floor/src/adapter/update_adapter.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/mockito.dart';
-import 'package:sqflite/sqflite.dart';
+import 'package:math_sqflite/sqflite.dart';
 
 import '../util/mocks.dart';
 import '../util/person.dart';

@@ -117,7 +117,7 @@ This package is still in an early phase and the API will likely change.
     import 'dart:async';
     import 'package:floor/floor.dart';
     import 'package:path/path.dart';
-    import 'package:sqflite/sqflite.dart' as sqflite;
+    import 'package:math_sqflite/sqflite.dart' as sqflite;
     import 'dao/person_dao.dart';
     import 'model/person.dart';
  

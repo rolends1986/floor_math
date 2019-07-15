@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:sqflite/sqflite.dart';
+import 'package:math_sqflite/sqflite.dart';
 
 class UpdateAdapter<T> {
   final DatabaseExecutor _database;
